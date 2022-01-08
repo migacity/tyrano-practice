@@ -1,5 +1,14 @@
 # ティラノスクリプトメモ
 
+[公式タグリファレンス](https://tyrano.jp/tag)
+
+公式が導入用のサンプルゲームを作っています。簡単なゲームの作り方が紹介されています。
+
+[サンプルゲームその1](https://tyrano.jp/demogame/tech_samples_1_v5/index.html)
+
+[サンプルゲームその2](https://tyrano.jp/demogame/tech_samples_2_v5/index.html)
+
+
 ## スクリプトの構成
 
 * 画像の差し替えくらいでほとんどそのまま必要なファイル
